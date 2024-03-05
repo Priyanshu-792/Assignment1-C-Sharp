@@ -1,0 +1,42 @@
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\PRIYANSHU\source\repos\Assignment1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\bin\Debug\net8.0\Assignment1.exe
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\bin\Debug\net8.0\Assignment1.dll
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\Assignment1.dll
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+E:\Promact assignments\COURSE\c#\Assignment1 C #\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\bin\Debug\net8.0\Assignment1.exe
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\bin\Debug\net8.0\Assignment1.dll
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\Assignment1.dll
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+E:\Promact assignments\COURSE\C sharp\Assignment1 C Sharp\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
